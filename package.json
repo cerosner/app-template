@@ -1,0 +1,19 @@
+{
+  "name": "boilermaker-new",
+  "version": "1.0.0",
+  "description": "Full stack web application template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerosner/app-template.git"
+  },
+  "author": "Fullstack Academy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerosner/app-template/issues"
+  },
+  "homepage": "https://github.com/cerosner/app-template#readme"
+}
